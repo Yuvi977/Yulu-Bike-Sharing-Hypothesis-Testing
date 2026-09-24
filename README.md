@@ -1,83 +1,88 @@
-# \# Yulu Bike Sharing - Hypothesis Testing
+\# Yulu Bike Sharing - Hypothesis Testing
 
-# 
 
-# \## Business Problem
 
-# Yulu wants to understand the factors associated with demand
+\## Business Problem
 
-# for shared electric cycles.
+Yulu wants to understand the factors associated with demand
 
-# 
+for shared electric cycles.
 
-# \## Objective
 
-# Analyze rental demand across:
 
-# \- Working days
+\## Objective
 
-# \- Holidays
+Analyze rental demand across:
 
-# \- Weather conditions
+\- Working days
 
-# \- Seasons
+\- Holidays
 
-# \- Temperature, humidity and windspeed
+\- Weather conditions
 
-# 
+\- Seasons
 
-# \## Tools Used
+\- Temperature, humidity and windspeed
 
-# Python, Pandas, NumPy, Matplotlib, Seaborn,
 
-# SciPy and Statsmodels
 
-# 
+\## Tools Used
 
-# \## Statistical Tests
+Python, Pandas, NumPy, Matplotlib, Seaborn,
 
-# \- Independent Two-Sample T-Test
+SciPy and Statsmodels
 
-# \- Levene's Test
 
-# \- Welch's ANOVA
 
-# \- Kruskal-Wallis Test
+\## Statistical Tests
 
-# \- Chi-Square Test
+\- Independent Two-Sample T-Test
 
-# 
+\- Levene's Test
 
-# \## Key Findings
+\- Welch's ANOVA
 
-# \- Rental demand differed significantly across seasons.
+\- Kruskal-Wallis Test
 
-# \- Rental demand differed significantly across weather conditions.
+\- Chi-Square Test
 
-# \- No significant overall difference was found between
 
-# &#x20; working and non-working days.
 
-# \- Season and weather showed a statistically significant association.
+\## Key Findings
 
-# \- Temperature and humidity showed meaningful associations with demand.
+\- Rental demand differed significantly across seasons.
 
-# 
+\- Rental demand differed significantly across weather conditions.
 
-# \## Business Recommendations
+\- No significant overall difference was found between
 
-* # Demand is highest in fall and also strong in summer yulu should plan to improve to position more bikes and operational capacity during these high demand periods.
-* # Weather forecast can be used as Clear and Misty weather shows higher demand than light snow/rain and heavy snow/rain.
-* # Lower demand weathers can be used for maintenance and discounts.
-* # Bikes can be moved to high demand location in early morning hours and in afternoon since rental demand peaked during those periods.
-* # Since moderate temperatures are associated with stronger demand while very high humidity is associated with lower rental counts. Weather based notifications could timed according to favourable riding conditions.
-* # Subscription oriented strategies can be used since registered riders dominate more than casual riders accross months.
+&#x20; working and non-working days.
 
-# 
+\- Season and weather showed a statistically significant association.
 
-# \## Project Files
+\- Temperature and humidity showed meaningful associations with demand.
 
-# \- Jupyter Notebook
 
-# \- Dataset
+
+\## Business Recommendations
+
+Demand is highest in fall and also strong in summer yulu should plan to improve to position more bikes and operational capacity during these high demand periods.
+
+Weather forecast can be used as Clear and Misty weather shows higher demand than light snow/rain and heavy snow/rain.
+
+Lower demand weathers can be used for maintenance and discounts.
+
+Bikes can be moved to high demand location in early morning hours and in afternoon since rental demand peaked during those periods.
+
+Since moderate temperatures are associated with stronger demand while very high humidity is associated with lower rental counts. Weather based notifications could timed according to favourable riding conditions.
+
+Subscription oriented strategies can be used since registered riders dominate more than casual riders accross months.
+
+
+
+\## Project Files
+
+\- Jupyter Notebook
+
+\- Dataset
 
